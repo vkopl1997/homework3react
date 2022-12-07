@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+ul{
+  list-style-type: none;
+  text-decoration: none;
+}
+.header{
+  background-color: #1e5564;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #FFF;
+  font-size: 30px;
+}
+button{
+  width: 20%;
+  height: 60px;
+  background-color: #4caac4;
+  color: #FFF;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.userslist{
+  width: 50%;
+  height: 500px;
+  margin: 0 auto;
+}
+p{
+  color: cornflowerblue;
+  font-size: 22px;
+}
+
